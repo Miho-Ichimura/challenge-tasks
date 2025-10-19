@@ -51,4 +51,4 @@ for user_data in json_data:
     else:
         cat = 'シニア'
 # 名前、年齢、カテゴリの出力
-    print(f'{user_data['name']}さんは {age}歳 です。→ カテゴリ：{cat}')
+    print(f'{user_data['name']}さんは {age}歳 です。→ カテゴリ：{cat}')  
